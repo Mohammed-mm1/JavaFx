@@ -2,7 +2,7 @@
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
-### Eclipse ###l
+### Eclipse ###ll
 .apt_generated
 .classpath
 .factorypath
